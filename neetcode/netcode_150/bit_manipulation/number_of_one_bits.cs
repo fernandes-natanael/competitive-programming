@@ -7,7 +7,7 @@ public class Solution {
             // Check creat 1 10 100 ...
             // Check each variation with n
             // Then if the and action generates a
-            // number different of 0, so its a new 1
+            // number different of 0, so its a new 1    
                 countOne++;
         }
         return countOne;
